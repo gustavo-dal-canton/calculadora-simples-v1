@@ -1,7 +1,7 @@
 body {
     display: grid;
     place-items: center; /* Centraliza horizontal e verticalmente */
-    height: 100vh;
+    height: 80vh;
     margin: 0;
     
 }
@@ -40,4 +40,7 @@ body {
     margin-top: 5px;
 }
 
-
+#mensagem{
+    color: white;
+    font-weight: bold;
+}
